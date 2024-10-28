@@ -1,4 +1,4 @@
-#Whatsapp Chat Analyzer
+# Whatsapp Chat Analyzer
 
 Analyze your WhatsApp chat data to gather insights, trends, and interesting statistics about your conversations.
 Features:
