@@ -9,4 +9,4 @@ Analyze peak activity times, daily message distribution, and monthly activity tr
 ### User Statistics:
 Get insights into the top contributors in group chats, including most active participants and average message lengths.
 ### Media Analysis:
-Count and categorize shared media types like images, videos, and links.# WhatsappChatAnalyzer
+Count and categorize shared media types like images, videos, and links.
